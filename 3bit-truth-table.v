@@ -112,7 +112,7 @@ module testbench();
   fPTwelve two  (a,b,c,f2);
   fAND     three(a,b,c,f3);
   fOR      four (a,b,c,f4);   
-	fXOR     five (a,b,c,f5);
+  fXOR     five (a,b,c,f5);
   fNOT     six  (a,b,c,f6);
   fNAND    seven(a,b,c,f7);
   fNOR     eight(a,b,c,f8);

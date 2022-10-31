@@ -1,3 +1,6 @@
+![Output](https://github.com/armixz/3bit-truth-table/blob/master/Output.png)
+<hr>
+
 # Verilog 3 bit truth table
 
 ---
